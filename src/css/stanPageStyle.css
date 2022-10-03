@@ -1,0 +1,50 @@
+.stan-image-main {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-top: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+.stan-image-sport {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  float: left;
+}
+.stan-image-music {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  float: right;
+}
+.stan-image-leader {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  float: left;
+}
+
+.content-block {
+  display: flex;
+}
+.content-block .image {
+  width: 25%;
+}
+.content-block .text {
+  width: 75%;
+}
+
+.footer {
+  height: 65px;
+}
