@@ -1,0 +1,45 @@
+.kenny-image-main {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-top: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+.kenny-image-death {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: left;
+}
+.kenny-image-death-2 {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+.kenny-image-hero {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: left;
+}
+.kenny-image-sport {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
