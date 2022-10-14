@@ -2,7 +2,7 @@
   border-color: black;
   border-width: 2px;
   padding: 5px;
-  margin-top: 10px;
+  margin-left: 10px;
   max-width: 20%;
   max-height: 20%;
   float: right;
@@ -11,38 +11,37 @@
   border-color: black;
   border-width: 2px;
   padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+.stan-image-personality {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
   margin-right: 10px;
-  max-width: 90%;
-  max-height: 90%;
+  max-width: 20%;
+  max-height: 20%;
   float: left;
+}
+.stan-image-engry {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
 }
 .stan-image-music {
   border-color: black;
   border-width: 2px;
   padding: 5px;
-  margin-right: 10px;
-  max-width: 90%;
-  max-height: 90%;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
   float: right;
-}
-.stan-image-leader {
-  border-color: black;
-  border-width: 2px;
-  padding: 5px;
-  margin-right: 10px;
-  max-width: 90%;
-  max-height: 90%;
-  float: left;
-}
-
-.content-block {
-  display: flex;
-}
-.content-block .image {
-  width: 25%;
-}
-.content-block .text {
-  width: 75%;
 }
 
 .footer {
