@@ -32,3 +32,48 @@
   text-align: center;
   font-style: italic;
 }
+
+.subtitle {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.cannubal-musical-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+
+.jesus-vs-frosty-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+
+.thats-my-bush-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+
+.team-america-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
