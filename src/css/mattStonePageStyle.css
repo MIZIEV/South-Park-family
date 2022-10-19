@@ -1,0 +1,64 @@
+.matt-image-main {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.subtitle {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.cannubal-musical-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.spirit-of-cristmas {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+
+.mat-with-trey-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+
+.my-bush-poster {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.south-park-poster {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
