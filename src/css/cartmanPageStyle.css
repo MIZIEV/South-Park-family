@@ -29,3 +29,14 @@
 .footer {
   height: 65px;
 }
+
+.nav-link {
+  color: black !important;
+}
+.nav-link.active {
+  background-color: #212429 !important;
+  color: white !important;
+}
+.nav-link:hover {
+  color: grey;
+}
