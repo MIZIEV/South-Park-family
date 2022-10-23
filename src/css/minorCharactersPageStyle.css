@@ -30,6 +30,106 @@
   margin-right: auto;
 }
 
+.Baahir-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.baby-Fark-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 10%;
+  max-height: 10%;
+  float: right;
+}
+
+.barack-obama-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 10%;
+  max-height: 10%;
+  float: right;
+}
+
+.big-gay-al-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.big-gay-with-slave-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: left;
+}
+
+.bill-cosby-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 10%;
+  max-height: 10%;
+  float: left;
+}
+
+.butters-stotch-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.cupid-cartman-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: right;
+}
+
+.craig-tucker-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-left: 10px;
+  max-width: 15%;
+  max-height: 15%;
+  float: right;
+}
+
+.craig-tucker-2-image {
+  border-color: black;
+  border-width: 2px;
+  padding: 5px;
+  margin-right: 10px;
+  max-width: 20%;
+  max-height: 20%;
+  float: left;
+}
+
 .nav-link {
   color: black !important;
 }
@@ -39,4 +139,12 @@
 }
 .nav-link:hover {
   color: grey;
+}
+
+.episodes-title {
+  font-style: italic;
+}
+
+.footer {
+  height: 65px;
 }
