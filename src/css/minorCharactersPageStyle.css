@@ -59,6 +59,26 @@
   float: right;
 }
 
+@media (max-width: 540px) {
+  .image-style-options-1 {
+    border-color: black;
+    border-width: 2px;
+    padding: 5px;
+    margin: 5px;
+    max-width: 80%;
+    max-height: 80%;
+    float: none;
+  }
+  .image-style-options-2 {
+    border-color: black;
+    border-width: 2px;
+    padding: 5px;
+    margin: 5px;
+    max-width: 80%;
+    max-height: 80%;
+    float: none;
+  }
+}
 .character-name {
   font-weight: bold;
 }
